@@ -10,5 +10,6 @@ public class TestA
     TestA()
     {
         Console.WriteLine("testB");
+        Console.WriteLine("testA");
     }
 }
