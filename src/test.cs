@@ -9,6 +9,6 @@ public class TestA
 
     TestA()
     {
-        Console.WriteLine("test");
+        Console.WriteLine("testA");
     }
 }
